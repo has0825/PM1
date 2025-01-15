@@ -5,7 +5,7 @@ int main() {
 
     printf("bay World\n");
 
-    printf("pullRequest　branch　B\n");
+    printf("pullRequest　branch　A\n");
 
 
     return 0;
